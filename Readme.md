@@ -4,7 +4,6 @@ In this project the training model is written in R programming Language so as to
 
 ##Steps to Install Project 
 
-User Manual: 
 1. First Install the R programming language into the system from the link provided below: 
 http://cran.r-project.org/mirrors.html
  
