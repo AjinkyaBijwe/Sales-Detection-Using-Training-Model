@@ -27,14 +27,14 @@ make sure the system have the internet connection to install the packages
 8. Type in the name of the packages required to install “TimeDate,RandomForest” both the
 packages must be separated by comma “,”. Repository must be set to CRAN for installation. 
 
-9.Check whether the installation is done properly from the output window console in the R studio
+9. Check whether the installation is done properly from the output window console in the R studio
 
-10.Open the code file from the R folder named Logic.R  
+10. Open the code file from the R folder named Logic.R  
 
 11. Run the code in the file by selecting all code by CTRL+A and then run it by pressing Enter. 
 
 12. The output screen will calculate the proximity values into the output windows. 
-      Note: The program may take 5 minutes to execute.
+Note: The program may take 5 minutes to execute.
 
 13. The output console window will show that the final output is written into the Final.csv file 
 into the final folder of the project.
