@@ -4,13 +4,13 @@ In this project the training model is written in R programming Language so as to
 
 ##Steps to Install Project 
 
-1. First Install the R programming language into the system from the link provided below: 
+1. First Install the R programming language into the system from the link provided below:                                 
 http://cran.r-project.org/mirrors.html
  
-2. Install the R Studio for windows, Linux or mac OSX from the website link below:
+2. Install the R Studio for windows, Linux or mac OSX from the website link below:                                
 http://www.rstudio.com/products/rstudio/download/
  
-3. After the installation copy the project folder into the system user documents folder example 
+3. After the installation copy the project folder into the system user documents folder example                      
 C: /Users/Administrator/MyDocuments.  
 
 4. Open the R studio software installed into the system.
